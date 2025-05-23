@@ -11,7 +11,7 @@ Attention and State-Space Models (SSMs) when combined in a hybrid network in seq
 Illustrative example of our four token-splitting strategies in action, showing how input tokens are partitioned and processed under each method.
 
 ## Results
-<img src="./Imgs/results.png" alt="drawing" width="800" height="400"/>
+<img src="./Imgs/results.png" alt="drawing" width="500" height="400"/>
  To assess the effectiveness of FlowHN, we benchmarked it against several state-of-the-art baselines—including LLaMA, Mamba-1, Mamba-2, Jamba, Sequential Hybrid Model (SHM), and Hymba—across three model scales: 135M, 350M, and 1B parameters. This table compares TPS, MFU, and accuracy across various state-of-the-art models, including our proposed FlowHN, evaluated at three model scales: 135M, 350M, and 1B parameters.
 
  <img src="./Imgs/TPS_MFU.png" alt="drawing" width="800" height="400"/>
