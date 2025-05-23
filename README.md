@@ -1,6 +1,6 @@
-# 🚀 GC-KBVQA: A New Four-Stage Framework for Enhancing Knowledge Based Visual Question Answering Performance
+# 🚀 Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks
 
-The code of our paper "GC-KBVQA: A New Four-Stage Framework for Enhancing Knowledge Based Visual Question Answering Performance" 
+#### Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks
 --
 
 ## Overview
