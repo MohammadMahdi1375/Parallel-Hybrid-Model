@@ -1,6 +1,6 @@
 # 🚀 Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks
 
- The code of our paper "Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks"
+ The code of our paper "Balancing Computation Load and Representation Expressivity in Parallel Hybrid Neural Networks" [PDF](https://arxiv.org/pdf/2505.19472)
 
 
 ## Overview
